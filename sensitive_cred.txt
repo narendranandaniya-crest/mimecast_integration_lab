@@ -1,3 +1,3 @@
 "AadClientId": "a1094d33-ba3a-4be5-aed3-7ab960e9f7a2",
 "AadSecret": "c6904411-b195-4f9d-b58e-19e81bbe31ad",
-"AadTenantId": "f7aa4f42-2232-4d27-af8e-ac56318f28e1",
+"AadTenantId": "f7aa4f42-2232-4d27-af8e-ac56318f28e1"
